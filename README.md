@@ -1,1 +1,1 @@
-# table-school-V6
+# table-school
